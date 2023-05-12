@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header img{ 
+    padding: 1.5em;
+    width: 10%;
+    height: 10%;
+    background-color: #3a3939;
+  }
+  
+  .logo-eco img{
+    width: 4em;
+    height: 4em;
+    position: absolute;
+    left: 12%;
+    top: 1%;
+  }
+  
+  .icon1-rodape img{
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 19.5em;
+    top: 3.9em;
+  }
+  
+  .icon2-rodape img{
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 39em;
+    top: 3.9em;
+  }
+  
+  .icon3-rodape img{
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 62.5em;
+    top: 3.7em;
+  }
+  
+  .icon4-rodape img{
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 86.0em;
+    top: 3.7em;
+  }
+  
+  .icon5-rodape img{
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    left: 107.5em;
+    top: 3.9em;
+  }
+  
+  .icon-home{
+    position: absolute;
+    width: 2%;
+    height: 1%;
+    left: 36%;
+    top: 2em;
+  }
+  
+   @font-face {
+    font-family: 'Abel-Regular';
+    src: url('fonts/Abel-Regular.ttf') format('truetype');
+    font-weight: normal;}
+  
+  .topnav a { 
+    font-family: 'Abel-regular', Times, serif;
+    font-size: 23px;
+    position: relative;
+    left: 150px;
+    top: -2.3em;
+    color: #ffffff;
+    text-align: center;
+    padding: 1% 2.5%;
+    text-decoration: none;
+  }
+  
+  .banner-gif {
+    text-align: center;
+   padding: 15px;
+  }  
+  
+  .cabecalho {
+    margin: 0;
+    background-color: #3a3939;
+    width: 100%;
+  }
+  
+  .topnav {display: flex;
+  justify-content: space-evenly; 
+  
+    background-color: #3a3939;
+  }
+  .nargas video{
+    position: relative;
+    top: -65px;
+  }
+  .sus {
+    
+  position: absolute;
+  width:0%;
+  height: 0%;
+  left: 72px;
+  top: 350px;
+  
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 1000%;
+  font-size: 40px;
+  line-height: 58px;
+  
+  color: #ffffff;
+  
+  
+  }
+  .topnav a:hover{
+    color: #c5c3c3;
+    background-color: #3f3e3e9f;
+  }
+  
+  @font-face {
+    font-family: 'Greatvibes';
+    src: url('fonts/GreatVibes-Regular.ttf') format('truetype');
+    font-weight: normal;}
+  
+  .descrição p{
+    font-family: 'Abel-regular', Times, serif;
+     font-size: 2em;
+     margin: 4;
+    
+  }
+  .morvan{
+    
+  position: absolute;
+  width: 197px;
+  height: 44px;
+  left: 41px;
+  top: 84px;
+  
+  font-family:'Abel-regular', Times, serif; 
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  
+  color: #ffffff;
+  }
+
+  body {
+    padding: 0px;
+    margin: 0;
+}
+
+form {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    background-color: #ffffff;
+    max-width: 500px;
+}
+
+input, textarea {
+    width: 200px;
+    padding: 10px;
+    color: black;
+    margin-left: 60em;
+    margin-top: 1em;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    box-shadow: 5px 0px 9px #81815d;
+    background-color: #bcbdbc;
+    color: black;
+    font-weight: bold;
+}
+
+.enviar {
+    background-color: #06b300;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: black;
+}
+
+textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+    box-shadow: 0px 5px 35px #000000;
+}
+
+form label {
+    margin-left: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.formulario{
+    margin-top: 10em;
+    
+}
+
+.entre-contato h1{
+    position: absolute;
+    left: 19em;
+    top: 5.5em;
+    font-size: 40px;
+}
+.morvan{
+  
+    position: absolute;
+    width: 197px;
+    height: 44px;
+    left: 41px;
+    top: 84px;
+    
+    font-family:'Abel-regular', Times, serif; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+    }
+
+
+
